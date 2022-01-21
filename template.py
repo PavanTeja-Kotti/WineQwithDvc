@@ -1,4 +1,5 @@
-from curses import raw
+# from curses import raw
+# from _curses import *
 import os
 
 dirs = [os.path.join("data","raw"),

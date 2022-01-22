@@ -1,6 +1,10 @@
+#Third party pakage install
 dvc
 dvc[gdrive]
 sklearn
 pandas
 pytest
 tox
+
+#local pakage install
+-e .

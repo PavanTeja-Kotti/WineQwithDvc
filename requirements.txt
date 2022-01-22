@@ -5,6 +5,8 @@ sklearn
 pandas
 pytest
 tox
+flask
+gunicorn
 
 #local pakage install
 -e .

@@ -1,4 +1,4 @@
-from msilib import schema
+#from msilib import schema
 from urllib import response
 import yaml
 import os
